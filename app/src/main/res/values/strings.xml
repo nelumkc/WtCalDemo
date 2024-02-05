@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WtCalDemo</string>
+    <string name="txtTitle">Weight Converter</string>
+    <string name="txtHintText">Enter the input weight</string>
+    <string name="txtBtnConvert">Convert Weight</string>
+    <string name="txtLbsToKgs">Convert Pounds to Kilos</string>
+    <string name="txtKgsToLbs">Convert Kilos to Pounds</string>
+
+</resources>
