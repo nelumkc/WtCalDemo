@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
-
+ // test
         // radGroupConv.getCheckedRadioButtonId() --> -1 if nothing is onContextItemSelected()
         // --> R.id.radBtnLbsToKgs if that radio button is checked
         // --> R.id.radBtnKgsToLbs if the other radio button is checked
