@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         Button btnConvert = findViewById(R.id.btnConvertWt);
         // added another line  from local
         // checkChange Listner:initialy -1
+        // added another line from local Feb 8th
         radGroupConv.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(RadioGroup group, int checkedId) {
